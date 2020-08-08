@@ -8,4 +8,4 @@ First, let's see the results of 2017 stock volumes: we can see that every ticker
 
 ## Summary 
 1. The advantages of refactoring code is better readabilities, easier to read and understand, also the code is better structured so it is less complex because it is easier to read, it is also good for de-bugging as well. The disadvantage would be that refactoring codes would cost much more effort to write, so if something is wrong in the codes, it would be harder to fix because it would take longer to re-write the code. 
-2. The Pros and Cons,
+2. The Pros and Cons for applying refactoring to the original VBA codes, I'd say that the pros would be it would be it makes the process much easier, like I can label different cells with different colors depends on their numbers, right upfront I can make the data look clean and easy to understand; Meanwhile like I said earlier refactoring definitely has more challenge, there is more likely that I would make a mistake in somewhere and easier for me to get lost during the code writing process, but once I have better understanding towards VBA and refactoring then I probably will be better at it.
